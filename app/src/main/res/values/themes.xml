@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.GymFit" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/yellow_back</item>
+        <item name="colorPrimaryDark">@color/orange_mid</item>
+        <item name="colorAccent">@color/orange_dark</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

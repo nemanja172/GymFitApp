@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GymFit</string>
+    <string name="email">E-mail</string>
+    <string name="geslo">Geslo</string>
+    <string name="login">Prijava</string>
+    <string name="signup">Registracija</string>
+    <string name="ime">Ime</string>
+    <string name="priimek">Priimek</string>
+    <string name="datum">Datum rojstva</string>
+    <string name="spol">Spol (M - moski, Z - zenski)</string>
+    <string name="tel">Telefonska številka</string>
+    <string name="prijavatukaj">Že imate nalog? <u>Prijavite se tukaj</u></string>
+    <string name="logo">logo</string>
+    <string name="opis">GymFit - aplikacija sa katero se doseže večja uporaba terminov in se omogoča trening v različnih objektih v celi državi. Sistem omogoča najlažji dostop do vseh najljubših športnih centrov. Aplikacija je produkt študentov Fakulteta za elektrotehniko pri predmetu Seminar iz načrtovanja in razvoja programske opreme v telekomunikacijah.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="odjava">Odjava</string>
+    <string name="id">ID številka</string>
+    <string name="posodobi">posodobi</string>
+    <string name="description">opis</string>
+    <string name="lokacija">lokacija</string>
+    <string name="id_uporabnika">ID uporabnika</string>
+    <string name="id_fitnesa">ID fitnesa</string>
+    <string name="datum_rezervacije">Datum</string>
+
+</resources>

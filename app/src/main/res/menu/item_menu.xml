@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:title="Domov"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/nav_profile"
+        android:title="Profil"
+        android:icon="@drawable/ic_profile"/>
+
+    <item android:id="@+id/nav_reservation"
+        android:title="Rezervacija"
+        android:icon="@drawable/ic_fitness"/>
+
+    <item android:id="@+id/nav_location"
+        android:title="Objekti"
+        android:icon="@drawable/ic_locations"/>
+
+</menu>
